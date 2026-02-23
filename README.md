@@ -39,17 +39,9 @@ Scan system using antivirus software.
 Malicious extensions can:  
 Steal personal information  Capture login credentials  Inject unwanted advertisements  Redirect search engines  Track browsing activity  Therefore, regularly reviewing extensions is an important security practice.
 
-**Deliverables**
-
-Screenshot of Installed Extensions Page
-Screenshot of Extension Details & Permissions
-Documentation of review process
-Confirmation that no suspicious extensions were found
-
 **Outcome**
 
 Gained awareness of browser extension security risks.
 Learned how to review extension permissions.
 Verified installed extensions for legitimacy.
-Understood preventive measures against malicious extensions.
-practice practice.
+Understood preventive measures against malicious extensions practice practice.
