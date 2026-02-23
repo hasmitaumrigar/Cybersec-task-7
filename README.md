@@ -52,4 +52,4 @@ Gained awareness of browser extension security risks.
 Learned how to review extension permissions.
 Verified installed extensions for legitimacy.
 Understood preventive measures against malicious extensions.
-practice practice.  📊 Deliverables  Screenshot of Installed Extensions Page  Screenshot of Extension Details & Permissions  Documentation of review process  Confirmation that no suspicious extensions were found  🎯 Outcome  Gained awareness of browser extension security risks.  Learned how to review extension permissions.  Verified installed extensions for legitimacy.  Understood preventive measures against malicious extensions.
+practice practice.
