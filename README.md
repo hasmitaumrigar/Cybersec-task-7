@@ -36,11 +36,11 @@ Remove the extension immediately.
 Restart the browser.  
 Clear browsing data if needed.  
 Scan system using antivirus software.  
-Malicious extensions can:  
+
+**Malicious extensions can:** 
 Steal personal information  Capture login credentials  Inject unwanted advertisements  Redirect search engines  Track browsing activity  Therefore, regularly reviewing extensions is an important security practice.
 
 **Outcome**
-
 Gained awareness of browser extension security risks.
 Learned how to review extension permissions.
 Verified installed extensions for legitimacy.
